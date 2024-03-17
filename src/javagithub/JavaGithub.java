@@ -14,10 +14,11 @@ public class JavaGithub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Variáveis
         int teste = 10;   
-        for (int n = 0; n<=teste; n++){
+        //Realizando e exibindo a contagem de 1 à 10 a partir de um loop for
+        for (int n = 1; n<=teste; n++){
            System.out.println("- "+n);
         }    
     }
-    
 }
