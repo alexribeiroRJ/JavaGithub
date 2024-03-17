@@ -19,6 +19,11 @@ public class JavaGithub {
         //Realizando e exibindo a contagem de 1 à 10 a partir de um loop for
         for (int n = 1; n<=teste; n++){
            System.out.println("- "+n);
+       
+            
+           // Imprimir uma mensagem na tela
+           System.out.println("Olá, mundo");
+        
         }    
     }
 }
