@@ -21,8 +21,8 @@ public class JavaGithub {
            System.out.println("- "+n);
        
             
-           // Imprimir uma mensagem na tela
-           System.out.println("Olá, mundo");
+           // Alex Ribeiro
+           
         
         }    
     }
